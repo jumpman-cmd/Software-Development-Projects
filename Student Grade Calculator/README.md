@@ -4,9 +4,9 @@
 ![Screenshot (1114)](https://github.com/user-attachments/assets/7901bf10-2c20-424c-bb5f-f03155203e9b)
 ![Screenshot (1115)](https://github.com/user-attachments/assets/31266973-43a5-41f5-aa4c-6fc464e9a600)
 
-Input: Take marks obtained (out of 100) in each subject.
-Calculate Total Marks: Sum up the marks obtained in all subjects.
-Calculate Average Percentage: Divide the total marks by the total number of subjects to get the
+1. Input: Take marks obtained (out of 100) in each subject.
+2. Calculate Total Marks: Sum up the marks obtained in all subjects.
+3. Calculate Average Percentage: Divide the total marks by the total number of subjects to get the
 average percentage.
-Grade Calculation: Assign grades based on the average percentage achieved.
-Display Results: Show the total marks, average percentage, and the corresponding grade to the user
+4. Grade Calculation: Assign grades based on the average percentage achieved.
+5. Display Results: Show the total marks, average percentage, and the corresponding grade to the user
