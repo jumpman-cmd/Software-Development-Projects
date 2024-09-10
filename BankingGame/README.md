@@ -1,6 +1,10 @@
 # Banking Game
 
-1. Generate a random number within a specified range, such as 1 to 100.![Untitled](https://github.com/user-attachments/assets/ac45a742-cdc3-4489-a81f-6cc92612d778)
+![Screenshot (1109)](https://github.com/user-attachments/assets/7132577f-ba95-4a00-a924-32f54dcc2805)
+![Screenshot (1110)](https://github.com/user-attachments/assets/9efacbee-0a8a-493b-94ff-4ca9a1c1b2e8)
+![Screenshot (1111)](https://github.com/user-attachments/assets/2927eb59-deeb-49a3-8c2f-2b05dcdf0941)
+
+1. Generate a random number within a specified range, such as 1 to 100.
 
 
 2. Prompt the user to enter their guess for the generated number.
