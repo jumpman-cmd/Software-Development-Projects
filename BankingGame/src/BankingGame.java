@@ -103,7 +103,9 @@ public class BankingGame extends JFrame
             score++;
             scoreLabel.setText("Score: " + score);
             endRound();
-        } else if (guess > randomNumber)
+        } 
+        
+        else if (guess > randomNumber)
         {
             feedbackLabel.setText("Too high! Try again.");
         }
