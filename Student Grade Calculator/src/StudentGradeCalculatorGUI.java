@@ -58,7 +58,9 @@ public class StudentGradeCalculatorGUI extends JFrame
             try
             {
                 int marks = Integer.parseInt(subjectFields[i].getText());
-                if (marks < 0 || marks > 100) {
+                
+                if (marks < 0 || marks > 100) 
+                {
                     resultLabel.setText("Marks must be between 0 and 100.");
                     validInput = false;
                     break;
@@ -77,8 +79,8 @@ public class StudentGradeCalculatorGUI extends JFrame
         if (validInput)
         {
             double averagePercentage = (double) totalMarks / numSubjects;
-
             String grade;
+            
             if (averagePercentage >= 90)
             {
                 grade = "A+";
